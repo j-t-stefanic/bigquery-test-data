@@ -18,3 +18,6 @@ The code generates randomized transactions that simulate several months of groce
 - Use Python code to generate the test transactions.  Element names and transaction count is configurable.
 - - For more information on Faker check out: https://pypi.org/project/Faker/
 - After the Python code completes the test data is uploaded to BigQuery and can be accessed via the Google Cloud Console.
+
+### BigQuery Table Image
+![BigQuery_Grocery_Data ](https://github.com/user-attachments/assets/18fe6ef8-332f-4b74-ba11-d53b14ae737e)
